@@ -21,7 +21,7 @@ Dieses Projekt umfasst die vollständige Konstruktion eines Wasserschachts, erst
 - AutoCAD
 
 ## 📂 Projektdateien
-- Wasserschacht-Saleh
+- Wasserschacht-Saleh.pdf
 
 
 ## 🎯 Projektziel
