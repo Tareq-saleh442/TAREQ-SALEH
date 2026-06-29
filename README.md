@@ -21,8 +21,7 @@ Dieses Projekt umfasst die vollständige Konstruktion eines Wasserschachts, erst
 - AutoCAD
 
 ## 📂 Projektdateien
-
-- PDF-Zeichnung
+- Wasserschacht-Saleh
 
 
 ## 🎯 Projektziel
@@ -31,12 +30,10 @@ Planung und Konstruktion eines funktionalen Wasserschachts für die kommunale Wa
 
 ## 📷 Vorschau
 
-<img width="334" height="478" alt="wasserschacht" src="https://github.com/user-attachments/assets/036a5eb8-5c85-4757-ada9-62bd27ea46f0" />
+<img width="750" height="529" alt="wasserschacht" src="https://github.com/user-attachments/assets/b0026d15-81dc-4513-b304-206ffc5f7999" />
 
 
-Beispiel:
 
-![Wasserschacht](images/wasserschacht.png)
 
 ## 👤 Autor
 
